@@ -22,7 +22,5 @@ Conectados 2.0 fue creado  con un único propósito de ayudarte a conseguir tus 
 	<html>
 <body>
 <bgsound src="musi.mp3" loop="5">
-</body>
-</html> 
 
 											   
