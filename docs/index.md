@@ -11,7 +11,7 @@
 		
 
 		<audio controls>
-    <source src="forelisa.mp3" autoplay="true" type="audio/mp3"
+    <source src="forelisa.mp3" type="audio/mp3" autoplay="true"
 </audio>
 
 
