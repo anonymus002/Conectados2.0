@@ -2,7 +2,7 @@
 
 	
 	<head>
-	<body background src="http://img.webme.com/pic/w/webcp/bge02.jpg" bgcolor="FFCECB">
+	<body background src="http://img.webme.com/pic/w/webcp/bge02.jpg" width="1007" height="705" alt="" /></p>
 			
 		<h3>&nbsp;<a href="DZVD" title="Maquinas Virtuales Priv"><span style="color: #ff0000;"><b>VPS </b></span></a>&nbsp;&nbsp;<a href="DHHSD" title="Server VPN"><span style="color: #ff0000;"><strong>SERVIDORES&nbsp;</strong></span></a>&nbsp; <a href="kidvgfsgd" title="APP TV Online"><span style="color: #ff0000;"><strong>PLAY TV</strong></span></a></h3>
 		<p></p>
