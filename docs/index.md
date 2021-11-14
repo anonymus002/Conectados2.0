@@ -1,5 +1,5 @@
-<html>
-	<bgsound src="musi.mp3" loop="1">
+<bgsound src="musi.mp3" loop="1">
+	
 	<head>
 	<body background="35601.png.jpg" bgcolor="FFCECB">
 			
