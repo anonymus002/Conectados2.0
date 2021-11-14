@@ -1,6 +1,46 @@
-p {
-	  background-image: url("https://www.xtrafondos.com/wallpapers/edificios-ciudad-de-noche-3183.jpg");
-}
+<html>
+	<head>
+	    <title>Fondo de prueba</title>
+	</head>
+
+	<body background="<html>
+	<head>
+	    <title>Fondo de prueba</title>
+	</head>
+
+	<body background="ed.png.jpeg" bgcolor="FFCECB">
+
+	<table width="550" bgcolor=FFCECB align=center>
+	<tr>
+	    <td>
+
+	    <h1 style="color:000000">Probando...</h1>
+	    <br>
+	    Este texto se lee bien porque tiene un fondo plano.
+	    <br>
+
+	    </td>
+	</tr>
+	</table>
+
+	</body>
+	</html>" bgcolor="FFCECB">
+
+	<table width="550" bgcolor=FFCECB align=center>
+	<tr>
+	    <td>
+
+	    <h1 style="color:000000">Probando...</h1>
+	    <br>
+	    Este texto se lee bien porque tiene un fondo plano.
+	    <br>
+
+	    </td>
+	</tr>
+	</table>
+
+	</body>
+	</html>
 
 
 jfednhkjwfuirwdjhhjrw      weuyrfwreskfgyiwryfw    wersuyrwftgbrug
