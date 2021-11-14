@@ -1,4 +1,5 @@
 <html>
+	<bgsound src="musi.mp3" loop="1">
 	<head>
 	<body background="35601.png.jpg" bgcolor="FFCECB">
 			
@@ -10,7 +11,6 @@
 		
 		
 
-		<audio autoplay="true" loop="infinite" src="musi.mp3"></audio>
 
 <p><strong><span style="color: #00ff00;">Hola como estas? Mi nombre es Ever fundador de Conectados 2.0 y emprendedor, merketer Digital, creador de anuncios. DESARROLLADOR WEB🙂
 
