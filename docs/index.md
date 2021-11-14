@@ -8,7 +8,7 @@
 	    <title>Fondo de prueba</title>
 	</head>
 
-	<body background="ed.png.jpeg" bgcolor="FFCECB">
+	<body background="ed.jpeg" bgcolor="FFCECB">
 
 	<table width="550" bgcolor=FFCECB align=center>
 	<tr>
