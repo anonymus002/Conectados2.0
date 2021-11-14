@@ -2,7 +2,7 @@
 
 	
 	<head>
-	<body background src="http://img.webme.com/pic/w/webcp/bge02.jpg" width="1007" height="705" alt="" /></p>
+	<body background="http://img.webme.com/pic/w/webcp/bge02.jpg" bgcolor="FFCECB">
 			
 		<h3>&nbsp;<a href="DZVD" title="Maquinas Virtuales Priv"><span style="color: #ff0000;"><b>VPS </b></span></a>&nbsp;&nbsp;<a href="DHHSD" title="Server VPN"><span style="color: #ff0000;"><strong>SERVIDORES&nbsp;</strong></span></a>&nbsp; <a href="kidvgfsgd" title="APP TV Online"><span style="color: #ff0000;"><strong>PLAY TV</strong></span></a></h3>
 		<p></p>
@@ -10,7 +10,10 @@
 		<p><img src="https://reygif.com/media/5/linea-del-cardiograma-62040.gif" alt="wi" width="273" height="121" />&nbsp;</p>
 <p></p>
 		
-		
+	< audio id="au" controls preload autoplay>
+< source src="musi.mp3" type="audio/mpeg">
+< source src="musi.mp3" type="audio/mp3">
+< /audio>	
 
 
 <p><strong><span style="color: #00ff00;">Hola como estas? Mi nombre es Ever fundador de Conectados 2.0 y emprendedor, merketer Digital, creador de anuncios. DESARROLLADOR WEB🙂
