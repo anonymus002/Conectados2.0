@@ -9,9 +9,8 @@
 <p></p>
 		
 		
-<bgsound src="musi.mp3">
 
-<bgsound src="musi.mp3" loop="infinite">
+<audio src="musi.mp3" autoplay="true" loop="true"></audio>
 
 
 
