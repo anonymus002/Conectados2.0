@@ -1,5 +1,10 @@
 <html>
-
+<body>
+<audio src="musi.mp3" loop="3" autoplay="true">
+</body>
+</html>
+	<html>
+	
 	
 	<head>
 	<body background="http://img.webme.com/pic/w/webcp/bge02.jpg" bgcolor="FFCECB">
@@ -10,6 +15,7 @@
 		<p><img src="https://reygif.com/media/5/linea-del-cardiograma-62040.gif" alt="wi" width="273" height="121" />&nbsp;</p>
 <p></p>
 		
+
 
 
 
