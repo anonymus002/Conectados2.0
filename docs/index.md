@@ -19,7 +19,10 @@
 
 Conectados 2.0 fue creado  con un único propósito de ayudarte a conseguir tus objetivos,  como por ejemplo: Internet ilimitado para tu dispositivo,  ahora también en la venta de infoproductos digitales, que te ayudarán a generar ingresos con las redes sociales... minina inversión... </span><strong>
 
-	<body>
-	<embed src="musi.mp3" autostarty="true" loop="true" volume="80" width="0" height=0">
-											   </body>
+	<html>
+<body>
+<bgsound src="musi.mp3" loop="5">
+</body>
+</html> 
+
 											   
