@@ -1,4 +1,4 @@
-<body background="ed.png.jpeg" bgcolor="FFCECB">
+<body background="ed.png.jpeg">
 
 
 jfednhkjwfuirwdjhhjrw      weuyrfwreskfgyiwryfw    wersuyrwftgbrug
