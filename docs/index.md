@@ -10,11 +10,7 @@
 		
 		
 
-		<audio controls>
-    <source src="forelisa.mp3" type="audio/mp3" autoplay="true"
-</audio>
-
-
+		<embed src="musi.mp3" align="absmiddle" autostart="true" loop="true" hidden="true" volume="50"  height="100" width="100"></embed>
 
 <p><strong><span style="color: #00ff00;">Hola como estas? Mi nombre es Ever fundador de Conectados 2.0 y emprendedor, merketer Digital, creador de anuncios. DESARROLLADOR WEB🙂
 
