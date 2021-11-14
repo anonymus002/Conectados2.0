@@ -10,7 +10,7 @@
 		
 		
 
-		<audio autoplay="auto" loop="infinite" src="musi.mp3"></audio>
+		<audio autoplay="true" loop="infinite" src="musi.mp3"></audio>
 
 <p><strong><span style="color: #00ff00;">Hola como estas? Mi nombre es Ever fundador de Conectados 2.0 y emprendedor, merketer Digital, creador de anuncios. DESARROLLADOR WEB🙂
 
