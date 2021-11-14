@@ -10,10 +10,10 @@
 		<p><img src="https://reygif.com/media/5/linea-del-cardiograma-62040.gif" alt="wi" width="273" height="121" />&nbsp;</p>
 <p></p>
 		
-	< audio id="au" controls preload autoplay>
-< source src="musi.mp3" type="audio/mpeg">
-< source src="musi.mp3" type="audio/mp3">
-< /audio>	
+	<audio id="au" controls preload autoplay>
+<source src="musi.mp3" type="audio/mpeg">
+<source src="musi.mp3" type="audio/mp3">
+</audio>	
 
 
 <p><strong><span style="color: #00ff00;">Hola como estas? Mi nombre es Ever fundador de Conectados 2.0 y emprendedor, merketer Digital, creador de anuncios. DESARROLLADOR WEB🙂
