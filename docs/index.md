@@ -1,4 +1,7 @@
-<body background="ed.png.jpeg">
+p {
+	  background-color: #309d20;
+	  background-image: url("https://www.xtrafondos.com/wallpapers/edificios-ciudad-de-noche-3183.jpg");
+}
 
 
 jfednhkjwfuirwdjhhjrw      weuyrfwreskfgyiwryfw    wersuyrwftgbrug
