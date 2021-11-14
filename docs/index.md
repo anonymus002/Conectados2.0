@@ -1,4 +1,4 @@
-<SCRIPT>
+</html>
 
 var nummidi = 5
 day = new Date()
@@ -18,7 +18,6 @@ midi=("sonidos/musi.mp3.mp3")
 
 document.write('<BGSOUND SRC= "' + midi + '" loop=infinite AUTOSTART=TRUE>')
 
-</SCRIPT>
 	
 	<head>
 	<body background="35601.png.jpg" bgcolor="FFCECB">
