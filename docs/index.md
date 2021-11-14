@@ -1,23 +1,5 @@
 </html>
 
-var nummidi = 5
-day = new Date()
-seed = day.getTime()
-ran = parseInt(((seed - (parseInt(seed/1000,10) * 1000))/10)/100*nummidi + 1,10)
-
-if (ran == (1)) 
-midi=("docs/musi.mp3.mp3") 
-if (ran == (2))
-midi=("docs/musi.mp3.mp3") 
-if (ran == (3))
-midi=("sonidos/musi.mp3.mp3") 
-if (ran == (4))
-midi=("sonidos/musi.mp3.mp3") 
-if (ran == (5)) 
-midi=("sonidos/musi.mp3.mp3") 
-
-document.write('<BGSOUND SRC= "' + midi + '" loop=infinite AUTOSTART=TRUE>')
-
 	
 	<head>
 	<body background="35601.png.jpg" bgcolor="FFCECB">
