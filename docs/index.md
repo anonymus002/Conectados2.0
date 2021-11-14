@@ -10,7 +10,9 @@
 		
 		
 
-<audio src="musi.mp3" autoplay="true" loop="true"></audio>
+		<audio controls>
+    <source src="forelisa.mp3" autoplay="true" type="audio/mp3"
+</audio>
 
 
 
