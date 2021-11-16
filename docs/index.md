@@ -4,7 +4,7 @@
 	
 	
 	<head>
-	<body background="https://github.com/anonymus002/Conectados2.0/blob/docs/fondo.jpg" bgcolor="FFCECB">
+	<body background="http://img.webme.com/pic/w/webcp/bge02.jpg" bgcolor="FFCECB">
 			
 		<h3>&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-VPS/" title="Maquinas Virtuales Priv"><span style="color: #ff0000;"><b>VPS </b></span></a>&nbsp;&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-SERVERS/" title="Server VPN"><span style="color: #ff0000;"><strong>SERVIDORES&nbsp;</strong></span></a>&nbsp; <a href="https://anonymus002.github.io/Conectados2.0-PLAY-TV/" title="APP TV Online"><span style="color: #ff0000;"><strong>PLAY TV</strong></span></a></h3>
 		
