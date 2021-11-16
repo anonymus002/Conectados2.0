@@ -4,7 +4,7 @@
 	
 	
 	<head>
-	<p><img src="https://t3.ftcdn.net/jpg/04/65/79/72/240_F_465797222_4F7F9uwoTGqwky2s3nTkS7zkQM5zvmp0.jpg" alt="fondo" width="638" height="240" />&lt;</p>
+	<body background="https://github.com/anonymus002/Conectados2.0/blob/docs/fondo.jpg" bgcolor="FFCECB">
 			
 		<h3>&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-VPS/" title="Maquinas Virtuales Priv"><span style="color: #ff0000;"><b>VPS </b></span></a>&nbsp;&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-SERVERS/" title="Server VPN"><span style="color: #ff0000;"><strong>SERVIDORES&nbsp;</strong></span></a>&nbsp; <a href="https://anonymus002.github.io/Conectados2.0-PLAY-TV/" title="APP TV Online"><span style="color: #ff0000;"><strong>PLAY TV</strong></span></a></h3>
 		
