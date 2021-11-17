@@ -5,7 +5,10 @@
 	
 	<head>
 	<body background="http://img.webme.com/pic/w/webcp/bge02.jpg" bgcolor="FFCECB">
-			
+
+		         <h2 style="text-align: center;"><span>~Servicios Cloud In Studio~</span><span></span></h2>
+<p><span></span></p>
+		
 		<h3>&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-VPS/" title="Maquinas Virtuales Priv"><span style="color: #3dfeff;"><b>VPS </b></span></a>&nbsp;&nbsp;<a href="https://anonymus002.github.io/Conectados2.0-SERVERS/" title="Server VPN"><span style="color: #fff98e;"><strong>SERVIDORES&nbsp;</strong></span></a>&nbsp; <a href="https://anonymus002.github.io/Conectados2.0-PLAY-TV/" title="APP TV Online"><span style="color: #9af9ff;"><strong>PLAY TV</strong></span></a></h3>
 		
 	
