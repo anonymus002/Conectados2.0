@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    background-image: linear-gradient(to right, #1a93da 0%, #25a6da 0%, #37afdf 21%, #2b7bb1 52%, #19d4ec 78%, #26d4ff 100%);
+    background-image: linear-gradient(to right, #2e83c8 0%, #2673bb 0%, #5bc1cc 21%, #5abec7 52%, #257bc2 78%, #21709e 100%);
 }
 
 .contenedor {
@@ -32,11 +32,11 @@ body {
 header {
     width: 100%;
     height: 600px;
-    background: #1dcbd8;
+    background: #2785aa;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(202, 83%, 60%, 0.459), hsla(189, 83%, 48%, 0.657)), url(../img/fondo1.jpg);
+    background: -webkit-linear-gradient(to right, hsla(202, 62%, 42%, 0.459), hsla(189, 53%, 60%, 0.657)), url(../img/fondo1.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(187, 78%, 55%, 0.459), hsla(192, 100%, 56%, 0.664)), url(../img/fondo1.jpg);
+    background: linear-gradient(to right, hsla(187, 50%, 14%, 0.459), hsla(192, 68%, 61%, 0.664)), url(../img/fondo1.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -191,7 +191,7 @@ main .sobre-nosotros {
 }
 
 .cards .card {
-    background: #10579b;
+    background: #133f68;
     display: flex;
     width: 46%;
     height: 200px;
